@@ -19,3 +19,9 @@ spring.jpa.show-sql=true
 spring.jpa.hibernate.ddl-auto=create-drop
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
 
+
+SECRET_KEY :
+
+this site: https://asecuritysite.com/encryption/plain
+256 bit
+
